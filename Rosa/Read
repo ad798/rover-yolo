@@ -1,6 +1,0 @@
-Aquí se encuentra el modelo de reconocimiento de Rosas usando Yolov3.
-
-Para usar el modelo:
-1.- Crear un virtualenv
-2.- Instalar los requerimientos: pip install -r requirements.txt
-3.- Realizar un test del modelo: python Minimal_Example.py
