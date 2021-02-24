@@ -7,7 +7,12 @@
 test.py
 
 # Image Files
-# Data/Source_Images
+Data/Source_Images
+Data/Model_Weights/*
+!Data/Model_Weights/checkpoint.h5
+!Data/Model_Weights/data_classes.txt
+!Data/Model_Weights/trained_weights_final.h5
+!Data/Model_Weights/trained_weights_stage_1.h5
 
 # tf event files
 events.out.tfevents.*
