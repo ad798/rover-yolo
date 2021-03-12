@@ -138,8 +138,8 @@ if __name__ == "__main__":
         "--postfix",
         type=str,
         dest="postfix",
-        default="_catface",
-        help='Specify the postfix for images with bounding boxes. Default is "_catface"',
+        default="_oidio",
+        help='Specify the postfix for images with bounding boxes. Default is "_oidio"',
     )
 
     parser.add_argument(
